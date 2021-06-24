@@ -20,6 +20,7 @@
 		C26F78B826846223000B00E5 /* HJObject.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HJObject.swift; sourceTree = "<group>"; };
 		C26F78E026846899000B00E5 /* UIView+HJObject.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "UIView+HJObject.swift"; sourceTree = "<group>"; };
 		C26F78E2268468B4000B00E5 /* HJObjectProtocol.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HJObjectProtocol.swift; sourceTree = "<group>"; };
+		C26F78E426847232000B00E5 /* HJExtensions.podspec */ = {isa = PBXFileReference; lastKnownFileType = text; path = HJExtensions.podspec; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -36,6 +37,7 @@
 		C26F789F26846199000B00E5 = {
 			isa = PBXGroup;
 			children = (
+				C26F78E426847232000B00E5 /* HJExtensions.podspec */,
 				C26F78AB26846199000B00E5 /* HJExtensions */,
 				C26F78AA26846199000B00E5 /* Products */,
 			);
